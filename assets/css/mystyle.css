@@ -1,0 +1,126 @@
+body {
+    background-image: url("/assets/images/download.jpeg");
+    background-size: 150px;
+    background-attachment: fixed;
+
+}
+
+.wrapper {
+    border-radius: 10px;
+    background-image: linear-gradient(160deg, #24c7dc, #514a9dce),url(/assets/images/corona.png);
+    margin-top: 50px;
+    /* min-height: 150px; */
+    padding-bottom: 50px;
+    box-shadow: 10px 10px 25px 5px rgb(0, 0, 0);
+    border: 5px solid rgba(255, 255, 255, 0.733);
+}
+
+#covid-image {
+    height: 50px;
+    padding: 5px;
+
+}
+
+.app-name {
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.content-a {
+    background-color: rgba(255, 255, 255, 0.486);
+    min-height: 150px;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    border: 3px solid white;
+}
+
+.top-line {
+    background-color: rgba(255, 255, 255, 0.466);
+    padding: 1px;
+}
+
+.world-section {
+    color: white;
+    /* padding: 10px; */
+}
+
+.data-card {
+    background-color: black;
+    /* min-height: 250px; */
+    padding: 25px;
+    margin: 10px 10px;
+}
+
+.border-2 {
+    border: 2px solid black;
+    /* min-height: 150px; */
+}
+
+.world-map {
+    /* background-color: white; */
+    padding: 20px;
+    min-height: 250px;
+}
+
+.card-plates {
+    /* background-color: yellow; */
+    padding: 0px 10px;
+    /* min-height: 450px; */
+
+}
+
+.card {
+    margin-top: 20px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+}
+
+.map {
+    background-color: red;
+    height: 250px;
+}
+
+.b-inf {
+    border-bottom: 10px solid rgba(152, 4, 250, 0.925);
+}
+
+.b-rec {
+    border-bottom: 10px solid rgb(6, 190, 129);
+
+}
+
+.b-det {
+    border-bottom: 10px solid rgb(250, 2, 97);
+
+}
+
+.conf {
+    color: rgba(152, 4, 250, 0.925);
+}
+
+.rec {
+    color: rgb(6, 190, 129)
+}
+
+.ded {
+    color: rgb(250, 2, 97)
+}
+
+.country-name {
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 40px;
+}
+#Cname{
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);   
+}
+
+
+.brand-id{
+    font-size:20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}

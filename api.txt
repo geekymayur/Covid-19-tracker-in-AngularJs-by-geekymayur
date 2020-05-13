@@ -1,0 +1,2 @@
+WORLD_URL = https://covid19.mathdro.id/api
+COUNTRY_URL  = /countries/india
